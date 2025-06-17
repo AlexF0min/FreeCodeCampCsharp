@@ -1,0 +1,14 @@
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\bin\Debug\net9.0\ConditionStatements1.exe
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\bin\Debug\net9.0\ConditionStatements1.deps.json
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\bin\Debug\net9.0\ConditionStatements1.runtimeconfig.json
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\bin\Debug\net9.0\ConditionStatements1.dll
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\bin\Debug\net9.0\ConditionStatements1.pdb
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.AssemblyInfo.cs
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.dll
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\refint\ConditionStatements1.dll
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.pdb
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ConditionStatements1.genruntimeconfig.cache
+C:\Users\Alexandr\Documents\EduProjects\FreeCodeCampCsharp\ConditionStatements\ConditionStatements1\obj\Debug\net9.0\ref\ConditionStatements1.dll
